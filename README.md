@@ -1,4 +1,4 @@
-# C-Competetive-Programming
+# C++-Competetive-Programming
 
 Basics:
 
